@@ -35,9 +35,15 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📷 Preview
 
-> *You can add a screenshot or screen recording here.*
+![App Demo](./demo.gif)
+
 
 ---
+## 🚀 Live Demo
+
+Check out the live app here:  
+ [Counter App on Vercel](https://react-counter-m74lq9s6q-deeksha-naiks-projects-eeeb59f7.vercel.app)
+
 
 ## 👩‍💻 Author
 
