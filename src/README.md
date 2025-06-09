@@ -1,35 +1,72 @@
 # React Counter App
 
-Hey there! 👋
-## What It Does
+A simple React Counter App built to practice **state management** and **keyboard event handling** using React Hooks.  
+Users can increase, decrease, or reset the counter via buttons or keyboard keys.
 
-- Shows a number on the screen.
-- You can click **"+"** or **"–"** buttons to change the count.
-- Or use your keyboard:
-  - Press **Arrow Up** to increase.
-  - Press **Arrow Down** to decrease.
-  - Press **R** to reset the count.
-- The count stays between 0 and 10 so it doesn’t go wild.
-- It’s styled with some basic CSS to keeps it clean and simple.
+---
 
-## Why I Made This
+## 🚀 Features
 
-As an engineering student learning React, I wanted to build something interactive to really understand how React’s state and event handling works. This project helped me get comfortable with React hooks and making my UI respond smoothly.
+- 🔼 Increase and 🔽 Decrease counter
+- 🔁 Reset button
+- ⌨️ Keyboard support (Up, Down, R keys)
+- ⚛️ Built with React functional components and hooks
 
-## How to Try It Out
+---
 
-1. Clone the repo to your computer:
+## 🖥️ Live Demo
 
-   ```bash
-   git clone https://github.com/Deeksha35/react-counter-app.git
-2. cd react-counter-app
-3. npm install
-4. npm start
-5. Open your browser and go to http://localhost:3000 — enjoy!
+[Click here to view the app](#) <!-- Replace # with Netlify or Vercel link -->
 
+---
 
-## What’s Next?
+## 🧰 Tech Stack
 
-I’m planning to add some cool animations, let users set their own min and max numbers, and maybe even add some tests to make sure everything works perfectly.
+- React (with Hooks)
+- JavaScript
+- HTML/CSS (via Create React App)
 
+---
 
+## 📷 Screenshot
+
+<!-- Add a screenshot or GIF of the app UI -->
+![App Screenshot](./screenshot.png)
+
+---
+
+## 📁 Folder Structure
+
+react-counter-app/
+├── public/
+├── src/
+│ ├── components/
+│ └── App.js
+├── package.json
+└── README.md
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/Deeksha35/react-counter-app.git
+cd react-counter-app
+
+2. **Install dependencies**
+
+npm install
+
+3. **Run the app**
+
+npm start
+Open http://localhost:3000 in your browser.
+
+✍️ Author
+Deeksha
+https://github.com/Deeksha35
+
+📄 License
+This project is open source and available under the MIT License.
