@@ -1,72 +1,51 @@
-# React Counter App
+# 🚀 React Counter App
 
-A simple React Counter App built to practice **state management** and **keyboard event handling** using React Hooks.  
-Users can increase, decrease, or reset the counter via buttons or keyboard keys.
-
----
-
-## 🚀 Features
-
-- 🔼 Increase and 🔽 Decrease counter
-- 🔁 Reset button
-- ⌨️ Keyboard support (Up, Down, R keys)
-- ⚛️ Built with React functional components and hooks
+A simple React Counter App built to practice state management and keyboard events. You can increase, decrease, or reset the count using buttons or keyboard keys. Ideal for beginners learning React hooks and event handling.
 
 ---
 
-## 🖥️ Live Demo
+## 📦 Features
 
-[Click here to view the app](#) <!-- Replace # with Netlify or Vercel link -->
-
----
-
-## 🧰 Tech Stack
-
-- React (with Hooks)
-- JavaScript
-- HTML/CSS (via Create React App)
-
----
-
-## 📷 Screenshot
-
-<!-- Add a screenshot or GIF of the app UI -->
-![App Screenshot](./screenshot.png)
-
----
-
-## 📁 Folder Structure
-
-react-counter-app/
-├── public/
-├── src/
-│ ├── components/
-│ └── App.js
-├── package.json
-└── README.md
+- ➕ Increase and ➖ Decrease counter  
+- 🔄 Reset counter  
+- 🎹 Keyboard key support  
+- 🪝 Built using React Hooks (`useState`, `useEffect`)
 
 ---
 
 ## 🛠️ Installation & Setup
 
-1. **Clone the repo**
+Clone the repository:
 
 ```bash
 git clone https://github.com/Deeksha35/react-counter-app.git
 cd react-counter-app
-
-2. **Install dependencies**
-
 npm install
+```
 
-3. **Run the app**
+Run the app:
 
+```bash
 npm start
-Open http://localhost:3000 in your browser.
+```
 
-✍️ Author
-Deeksha
-https://github.com/Deeksha35
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-📄 License
-This project is open source and available under the MIT License.
+---
+
+## 📷 Preview
+
+> *You can add a screenshot or screen recording here.*
+
+---
+
+## 👩‍💻 Author
+
+**Deeksha**  
+🔗 [GitHub Profile](https://github.com/Deeksha35)
+
+---
+
+## ⚖️ License
+
+This project is open-source and available under the [MIT License](LICENSE).
